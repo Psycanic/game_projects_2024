@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bugs_behavior",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bugs_behavior",
+  "parent":{
+    "name":"Scripts",
+    "path":"folders/Scripts.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
